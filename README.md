@@ -5,26 +5,11 @@ This is a mobile app developed as part of my Design module at UCL. We worked in 
 
 This project is owned by University College London and Great Ormond Street Hopsital (GOSH). Our work has been highly recognized by our client, GOSH, who appreciates the appealing design, great functionalities and reliable performance of our app.
 
-<link href="style.css" rel="stylesheet"></link>
+<div class="sceenshot">
+<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture1.png" width="200" height="350" title="Splash screen"> <img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture4.png" width="200" height="350" title="Homepage"><img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture5.png" width="200" height="350" title="Input reading"><img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture6.png" width="200" height="350" title="Prescription advice"><img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture7.png" width="200" height="350" title="Calendar view (monthly)"><img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture8.png" width="200" height="350" title="Calendar view (daily)"><img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture9.png" width="200" height="350" title="Export data">
+</div>
 
-<div class="sceenshot">
-<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture1.png" width="200" height="350" title="Splash screen"> <img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture4.png" width="200" height="350" title="Homepage">
-</div>
-<div class="sceenshot">
-<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture5.png" width="200" height="350" title="Input reading">
-</div>
-<div class="sceenshot">
-<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture6.png" width="200" height="350" title="Prescription advice">
-</div>
-<div class="sceenshot">
-<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture7.png" width="200" height="350" title="Calendar view (monthly)">
-</div>
-<div class="sceenshot">
-<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture8.png" width="200" height="350" title="Calendar view (daily)">
-</div>
-<div class="sceenshot">
-<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture9.png" width="200" height="350" title="Export data">
-</div>
+(More screenshots of the app can be found in the folder 'screenshots')
 
 Features:
 - Patient profile and medical contact maintenance
