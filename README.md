@@ -1,7 +1,4 @@
-.screenshot {
-  float: left;
-  padding: 5px;
-}
+<link href="style.css" rel="stylesheet"></link>
 # NephroticNotebookApp
 A ionic mobile app developed for patient with nephrotic disease to record daily protein test result and track medication.
 
