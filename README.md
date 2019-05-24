@@ -8,10 +8,7 @@ This project is owned by University College London and Great Ormond Street Hopsi
 <link href="style.css" rel="stylesheet"></link>
 
 <div class="sceenshot">
-<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture1.png" width="200" height="350" title="Splash screen">
-</div>
-<div class="sceenshot">
-<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture4.png" width="200" height="350" title="Homepage">
+<img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture1.png" width="200" height="350" title="Splash screen"> <img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture4.png" width="200" height="350" title="Homepage">
 </div>
 <div class="sceenshot">
 <img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture5.png" width="200" height="350" title="Input reading">
