@@ -3,7 +3,7 @@ A mobile app developed for patient with nephrotic disease to record daily protei
 
 This is a mobile app developed as part of my Design module at UCL. We worked in a group of three people on UI design, software engineering, database, programming and testing. The app, called 'My Nephrotic Notebook', is developed for patients at Great Ormond Street Hospital (GOSH) to replace their existing protein test logging sheet. Based on the protein level, patients undergo different treatment states (normal, relapse and remission) which require various amount of medication. The app is compatible for iOS and Android devices.
 
-This project is owned by University College London and Great Ormond Street Hopsital.
+This project is owned by University College London and Great Ormond Street Hopsital (GOSH). Our work has been highly recognized by our client, GOSH, who appreciates the appealing design, great functionalities and reliable performance of our app.
 
 Features:
 - Patient profile and medical contact maintenance
@@ -37,6 +37,7 @@ Development:
   - SQLite3 is chosen to build in-device storage for user profile, prescription plans and test result input history.
   - Ionic Storage is used for saving temporary data during app usage.
 - Testing
-  - Compatibility Testing performed for various iOS and Android devices using Xcode and Android Studio.
-  - Stress Testing was conducted by creating dummy daily input data over a period of 7 years (over 2000 records).
-  - User Acceptance Testing with 10 user cases was conducted.
+  - Testing covers every aspect of the app up to actual deployment.
+  - Compatibility Testing was performed for various iOS and Android devices using Xcode and Android Studio. Our app works well with different screen sizes with minor text clippings in latest iOS devices.
+  - Stress Testing was conducted by creating dummy daily input data over a period of 7 years (over 2000 records). 
+  - User Acceptance Testing with 10 user cases was conducted with favourable user feedback.
