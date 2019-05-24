@@ -1,5 +1,5 @@
 # NephroticNotebookApp
-A mobile app developed for patient with nephrotic disease to record daily protein test result and track medication.
+A ionic mobile app developed for patient with nephrotic disease to record daily protein test result and track medication.
 
 This is a mobile app developed as part of my Design module at UCL. We worked in a group of three people on UI design, software engineering, database, programming and testing. The app, called 'My Nephrotic Notebook', is developed for patients at Great Ormond Street Hospital (GOSH) to replace their existing protein test logging sheet. Based on the protein level, patients undergo different treatment states (normal, relapse and remission) which require various amount of medication. The app is compatible for iOS and Android devices.
 
