@@ -5,6 +5,8 @@ This is a mobile app developed as part of my Design module at UCL. We worked in 
 
 This project is owned by University College London and Great Ormond Street Hopsital (GOSH). Our work has been highly recognized by our client, GOSH, who appreciates the appealing design, great functionalities and reliable performance of our app.
 
+![Alt text](screenshots/Picture1.png)
+
 Features:
 - Patient profile and medical contact maintenance
 - Input of other medications to assist diagnosis
