@@ -5,10 +5,7 @@ This is a mobile app developed as part of my Design module at UCL. We worked in 
 
 This project is owned by University College London and Great Ormond Street Hopsital (GOSH). Our work has been highly recognized by our client, GOSH, who appreciates the appealing design, great functionalities and reliable performance of our app.
 
-.screenshot{
-  float:left;
-  padding:5px;
- }
+<link href="style.css" rel="stylesheet"></link>
 
 <div class="sceenshot">
 <img src="https://github.com/annietsang23/NephroticNotebookApp/blob/master/screenshots/Picture1.png" width="200" height="350" title="Splash screen">
